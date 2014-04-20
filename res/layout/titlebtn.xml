@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="horizontal"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent">
+    <ImageButton 
+    	android:id="@+id/imageButton1"
+    	style="@style/GeneralStyle1"
+    	android:background="#00000000"
+    	android:layout_centerVertical="true"
+    	android:layout_alignParentLeft="true"/>
+    	<TextView 
+    		style="@style/GeneralStyle1"
+    		android:layout_centerInParent="true"
+    		android:text="        "
+    		android:textSize="24sp"
+    		android:id="@+id/testtext"
+    		/>
+    	<ImageButton 
+    	android:id="@+id/imageButton2"
+    	style="@style/GeneralStyle1"
+    	android:background="#00000000"
+    	android:layout_centerInParent="true"
+    	android:layout_alignParentRight="true"
+    	/>	
+</RelativeLayout>

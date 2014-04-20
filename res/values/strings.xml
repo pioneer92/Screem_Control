@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="textMobileString">请输入你要拨打的电话号码：</string>
+	<string name="edtMobileNumString">请输入号码</string>
+	<string name="btnCallString">拨打</string>
+	<string name="RecievePeople">收件人：</string>
+	<string name="RecievePeople2">收件人</string>
+	<string name="InsertMessage">请输入短信内容</string>
+	<string name="Send">发送</string>
+	<string name="ContactPeople">联系人：</string>
+	<string name="determine">确定</string>
+	<string name="back">返回</string>
+	<string name="tip1">对不起,未能查找到手机号!</string>
+	<string name="contactName">姓名</string>
+	<string name="contactTel">电话</string>
+	<string name="InsertContactsName">请输入联系人姓名</string>
+	<string name="Add">添加</string>
+	<string name="app_name">声控通</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
